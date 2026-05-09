@@ -1,4 +1,4 @@
-Click here to run the code live on DartPad: https://dartpad.dev/?githubid=blessingCOnu/Mini-Dart-Projects/tree/main/rocketLaunchSimulator/main.dart
+Click here to run the code live on DartPad: https://dartpad.dev/?id=c02dd72514062bc5f60ef1d551c36745
 
 What I Learnt:
 1. While Loops: Used when you want to repeat a block of code as long as a condition is true.
