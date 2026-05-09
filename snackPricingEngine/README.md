@@ -1,4 +1,4 @@
-Click here to run the code logic live on DartPad: https://dartpad.dev/?githubid=blessingCOnu/Mini-Dart-Projects/tree/main/snackPricingEngine
+Click here to run the code logic live on DartPad: https://dartpad.dev/?id=a1591cf9bbe499e7abe0238f61535941
 
 What I Learnt:
 
